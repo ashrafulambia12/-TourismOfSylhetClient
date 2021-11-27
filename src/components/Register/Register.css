@@ -1,0 +1,6 @@
+.fromMain{ display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+.fromBody{max-width: 1000px;} 
